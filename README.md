@@ -1,12 +1,78 @@
 ### Hi, I'm Amit 👋
 
 I am a passionate software developer with passion to share knowledge and tech programming!
+
 <img src="https://github.com/amit-kumar-kushwaha/amit-kumar-kushwaha/blob/main/cover.png" alt="amit" />
 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/amit-kumar-kushwaha)
 
-[![Website URL](https://img.shields.io/static/v1?color=green&label=Amit'sportfolio &logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://amitkumarkushwaha.com.np/)
+[![Website URL](https://img.shields.io/static/v1?color=green&label=Amit'sportfolio&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://amitkumarkushwaha.com.np/)
+
+<div style="max-width:900px;margin:auto;font-family:Segoe UI,Tahoma,sans-serif;color:#c9d1d9;">
+
+  <h2 style="text-align:center;color:#58a6ff;margin-bottom:25px;">
+    💻 TECHNICAL SKILLS
+  </h2>
+
+  <!-- Programming Languages -->
+  <div style="background:#161b22;padding:16px;border-radius:10px;margin-bottom:15px;border:1px solid #30363d;">
+    <h3 style="margin:0 0 10px;color:#f0f6fc;">Programming Languages</h3>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">JavaScript</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">TypeScript</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">C</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">C++</span>
+  </div>
+
+  <!-- Backend -->
+  <div style="background:#161b22;padding:16px;border-radius:10px;margin-bottom:15px;border:1px solid #30363d;">
+    <h3 style="margin:0 0 10px;color:#f0f6fc;">Backend</h3>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Node.js</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Express.js</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">REST APIs</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Khalti Payment</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Stripe Payment</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">API Integration</span>
+  </div>
+
+  <!-- Frontend -->
+  <div style="background:#161b22;padding:16px;border-radius:10px;margin-bottom:15px;border:1px solid #30363d;">
+    <h3 style="margin:0 0 10px;color:#f0f6fc;">Frontend</h3>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">React.js</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Next.js</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Tailwind CSS</span>
+  </div>
+
+  <!-- Database -->
+  <div style="background:#161b22;padding:16px;border-radius:10px;margin-bottom:15px;border:1px solid #30363d;">
+    <h3 style="margin:0 0 10px;color:#f0f6fc;">Database</h3>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">MongoDB</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Mongoose</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">MySQL</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">PostgreSQL</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Supabase</span>
+  </div>
+
+  <!-- DevOps -->
+  <div style="background:#161b22;padding:16px;border-radius:10px;margin-bottom:15px;border:1px solid #30363d;">
+    <h3 style="margin:0 0 10px;color:#f0f6fc;">DevOps</h3>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Docker</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Git</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">GitHub</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">GitHub Actions</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Vercel</span>
+  </div>
+
+  <!-- Tools -->
+  <div style="background:#161b22;padding:16px;border-radius:10px;border:1px solid #30363d;">
+    <h3 style="margin:0 0 10px;color:#f0f6fc;">Tools</h3>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">VS Code</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Postman</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Figma</span>
+  </div>
+
+</div>
+
 
 ### Socials
 
@@ -25,13 +91,13 @@ I am a passionate software developer with passion to share knowledge and tech pr
 
 
 <hr/>
-## &#x1f4c8; GitHub Stats
+### GitHub Stats
 
 <p><a href="https://github.com/amit-kumar-kushwaha/amit-kumar-kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhrugen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amit's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-kumar-kushwaha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amit's GitHub Stats" />
 </a>
 <a href="https://github.com/amit-kumar-kushwaha/amit-kumar-kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrugen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-kumar-kushwaha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 </p>
@@ -42,7 +108,7 @@ I am a passionate software developer with passion to share knowledge and tech pr
 - 😄 Pronouns: Am-eet!
 
 <!--
-**bhrugen/bhrugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amit-kumar-kushwaha/amit-kumar-kushwaha* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
