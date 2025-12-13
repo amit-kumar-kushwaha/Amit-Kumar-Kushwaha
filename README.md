@@ -42,7 +42,7 @@ Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind 
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a></span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a></span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a></span>
-    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a></span>
   </div>
 
@@ -50,17 +50,17 @@ Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind 
   <div style="background:#161b22;padding:16px;border-radius:10px;margin-bottom:15px;border:1px solid #30363d;">
     <h3 style="margin:0 0 10px;color:#f0f6fc;">Database</h3>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a></span>
-    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Mongoose</span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Supabase</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Mongoose</span>
   </div>
 
   <!-- DevOps -->
   <div style="background:#161b22;padding:16px;border-radius:10px;margin-bottom:15px;border:1px solid #30363d;">
     <h3 style="margin:0 0 10px;color:#f0f6fc;">DevOps</h3>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a></span>
-    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><</span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a></span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">GitHub</span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">GitHub Actions</span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Vercel</span>
@@ -70,8 +70,8 @@ Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind 
   <div style="background:#161b22;padding:16px;border-radius:10px;border:1px solid #30363d;">
     <h3 style="margin:0 0 10px;color:#f0f6fc;">Tools</h3>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a></span>
-    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Postman</span>
     <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></span>
+    <span style="display:inline-block;background:#21262d;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #30363d;">Postman</span>
   </div>
 
 </div>
