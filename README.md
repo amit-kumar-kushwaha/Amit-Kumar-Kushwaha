@@ -4,9 +4,9 @@ I am a passionate software developer with passion to share knowledge and tech pr
 
 [![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/c/dotnetmastery)
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/bhrugenpatel)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/amit-kumar-kushwaha)
 
-[![Website URL](https://img.shields.io/static/v1?color=green&label=DotNetMastery&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://dotnetmastery.com/)
+[![Website URL](https://img.shields.io/static/v1?color=green&label=Amit'sportfolio &logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://amitkumarkushwaha.com.np/)
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/amit-kumar-kushwaha/count.svg" />
@@ -18,10 +18,10 @@ I am a passionate software developer with passion to share knowledge and tech pr
 ## &#x1f4c8; GitHub Stats
 
 <p><a href="https://github.com/amit-kumar-kushwaha/amit-kumar-kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhrugen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bhrugen's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-kumar-kushwaha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amit's GitHub Stats" />
 </a>
 <a href="https://github.com/amit-kumar-kushwaha/amit-kumar-kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhrugen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-kumar-kushwaha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 </p>
