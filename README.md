@@ -12,7 +12,7 @@ Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind 
 <div style="max-width:900px;margin:auto;font-family:Segoe UI,Tahoma,sans-serif;color:#c9d1d9;">
 
   <h2 style="text-align:center;color:#58a6ff;margin-bottom:25px;">
-    💻 TECHNICAL SKILLS
+    Technical Skills
   </h2>
 
   <!-- Programming Languages -->
@@ -81,7 +81,7 @@ Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind 
 
 <p align="left"> <a href="https://github.com/amit-kumar-kushwaha/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amit-kumar-kushwaha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
 
-### Skills
+### Other Skills
 
 
 <p align="left">
@@ -94,7 +94,7 @@ Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind 
 
 
 <hr/>
-### Github Stats
+
 
 <p><a href="https://github.com/amit-kumar-kushwaha/amit-kumar-kushwaha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-kumar-kushwaha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amit's GitHub Stats" />
