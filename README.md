@@ -1,6 +1,6 @@
 ### Hi, I'm Amit 👋
 
-Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind CSS) and back-end (Node.js, Express.js, REST APIs, API integration, MongoDB). MERN stack developer experienced in building responsive, scalable applications with strong problem-solving, communication, and teamwork abilities
+Passionate Software Developer skilled in front-end (React.js, Next.js, Tailwind CSS) and back-end (Node.js, Express.js, REST APIs, API integration, MongoDB). 
 
 <img src="https://github.com/amit-kumar-kushwaha/amit-kumar-kushwaha/blob/main/cover.png" alt="amit" />
 
